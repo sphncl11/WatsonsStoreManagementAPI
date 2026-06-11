@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WatsonsStoreManagementAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8857e886f4598b10498b0a1bc8d5c3f52d808f6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WatsonsStoreManagementAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WatsonsStoreManagementAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
